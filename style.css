@@ -1,0 +1,22 @@
+.contenedor{
+    max-width: 50%;
+    margin: auto;
+    border: solid 3px;
+    color: black;
+    padding: 65px;
+
+}
+
+.Fotoperfil{
+    font-display: left;
+}
+
+.borde{
+    border-bottom: solid 4px;
+    color: cornflowerblue;
+    
+
+}
+
+
+
